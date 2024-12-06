@@ -4,6 +4,7 @@ editor: visual
 format: 
   docx: 
     reference-doc: plantilla.docx
+bibliography: references.bib
 ---
 
 # Quarto
@@ -26,3 +27,7 @@ You can add options to executable code like this
 ```
 
 The `echo: false` option disables the printing of code (only output is displayed).
+
+## 1.1        Asteroidea
+
+El nombre equinodermo (Filo Echinodermata) deriva del griego ekhino, "púa" y derma, "piel". Los equinodermos conforman un filo de animales deuterostomados, exclusivamente marinos y mayoritariamente bentónicos. Este grupo incluye las clases: Asteroidea (estrellas de mar), Ophiuroidea (estrellas de mar quebradizas o frágiles), Echinoidea (erizos de mar), Holothuroidea (pepinos de mar), y Crinoidea (lirios de mar) @hickman2001 Los equinodermos constituyen un grupo dominante en muchos ecosistemas marinos de fondos blandos y duros [@falabella2013] (Ellis y Rogers 2000; Lebrato et al. 2010) y por lo tanto juegan un papel importante en la estructuración de las comunidades bentónicas (Paine, 1969; McClintock, 1994). Las estrellas de mar representan un grupo diverso con abundante registro fósil  (Sutton et al., 2005; Stilwell y Long, 2011; Jagt et al., 2014). Han colonizado con éxito todas las profundidades de los océanos, incluido el Océano Antártico (De Broyer et al., 2020). Presentan numerosas estrategias de alimentación (omnívoras, detritívoras, suspensívoras o carnívoras) (Lawrence y Lane, 1982) y de reproducción (embriones y larvas planctotróficas, embriones bentónicos con larvas planctotróficas, embriones bentónicos lecitotróficos e incluso incubación) (Bosch, 1989; Bosch y Pearse, 1990; Pearse et al., 1991; Byrne, 2005). Muchas especies de altas latitudes presentan desarrollo directo con hembras incubadoras (Bosch y Slattery, 1999; Pérez et al., 2017; Fraysse et al., 2020).
